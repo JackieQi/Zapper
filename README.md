@@ -1,0 +1,2 @@
+# Zapper
+Mac app remover
